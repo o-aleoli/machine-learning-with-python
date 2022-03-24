@@ -1,0 +1,14 @@
+cat-and-dog-image-classifier/*
+data_augmentation_cifar10/*
+notebooks/*
+rock-paper-scissors/__pycache__/*
+rock-paper-scissors/caderno.ipynb
+rock-paper-scissors/main.py
+rock-paper-scissors/README.md
+rock-paper-scissors/RPS_game.py
+rock-paper-scissors/test_module.py
+rock-paper-scissors/training_ckpts/*
+training_ckpts/*
+caderno.ipynb
+dogs_of_cats.h5
+shakespeare_rnn.h5
