@@ -10,3 +10,4 @@ Original files and problem descriptions are availble on [author's website (FreeC
 On the course's first project, the player must win at least 60% of 1000 plays against four artificial intelligences.
 In my approach, I first trained a recurrent neural network to correctly classify the opponent using its first 200 plays and then choose the correct strategy against it.
 This approach were capable of winning the AI in 87% ~ 96% of the plays at the unit test.
+More details on `rock-paper-scissors/resolucao_rps.ipynb` (PT-BR).
