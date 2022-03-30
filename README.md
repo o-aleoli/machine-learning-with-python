@@ -11,3 +11,10 @@ On the course's first project, the player must win at least 60% of 1000 plays ag
 In my approach, I first trained a recurrent neural network to correctly classify the opponent using its first 200 plays and then choose the correct strategy against it.
 This approach were capable of winning the AI in 87% ~ 96% of the plays at the unit test.
 More details on `rock-paper-scissors/resolucao_rps.ipynb` (PT-BR).
+
+## Cat and Dog Image Classifier
+
+The project proposes building a covolutional neural network to correctly classify at least 63% of cats and dogs figures.
+The CNN was built with a layer of 128 square filters with 10 pixels each, an pooling layer with 32 filters and two dense layers with 64 and 1 neurons each.
+The model were capable of identifying cats and dogs at 70% of the validation pictures after training for 15 epochs with 200 pictures each.
+More details on `fcc_cat_dog.ipynb`.
