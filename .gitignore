@@ -1,5 +1,7 @@
-book-recommendation-engine-using-knn/*
+book-recommendation-engine-using-knn/caderno.ipynb
+book-recommendation-engine-using-knn/*.csv
 data_augmentation_cifar10/*
+linear-regression-health-costs-calculator/*
 notebooks/*
 rock-paper-scissors/__pycache__/*
 rock-paper-scissors/caderno.ipynb

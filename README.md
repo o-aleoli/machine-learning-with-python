@@ -18,3 +18,8 @@ The project proposes building a covolutional neural network to correctly classif
 The CNN was built with a layer of 128 square filters with 10 pixels each, an pooling layer with 32 filters and two dense layers with 64 and 1 neurons each.
 The model were capable of identifying cats and dogs at 70% of the validation pictures after training for 15 epochs with 200 pictures each.
 More details on `fcc_cat_dog.ipynb`.
+
+## Book Recommendation Engine using KNN
+
+In this project I built a recommendation system with the K-Nearest Neighbors algorithm and ratings from the [Book-Crossings database](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).
+By inserting the book title in `get_recommends()` function it returns the 5 closest books and their simmilarities to the input from 0 to 1.
