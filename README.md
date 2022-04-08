@@ -23,3 +23,8 @@ More details on `fcc_cat_dog.ipynb`.
 
 In this project I built a recommendation system with the K-Nearest Neighbors algorithm and ratings from the [Book-Crossings database](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).
 By inserting the book title in `get_recommends()` function it returns the 5 closest books and their simmilarities to the input from 0 to 1.
+
+## Linear Regression Health Costs Calculator
+
+The project proposes building an regression model to predict health care expenses from a database containing age, gender, body mass index (BMI) and region data.
+It is also required to train the model until achieves a mean absolute error smaller than US$ 3500.

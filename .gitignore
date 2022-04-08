@@ -1,8 +1,9 @@
 book-recommendation-engine-using-knn/caderno.ipynb
 book-recommendation-engine-using-knn/*.csv
 data_augmentation_cifar10/*
-linear-regression-health-costs-calculator/*
+linear-regression-health-costs-calculator/insurance.csv
 notebooks/*
+neural-network-sms-text-classifier/*
 rock-paper-scissors/__pycache__/*
 rock-paper-scissors/caderno.ipynb
 rock-paper-scissors/main.py
